@@ -50,11 +50,10 @@
 
 ### Jakub Nowosad: "Where can your spatial model be trusted? Reliable validation of spatial machine learning"
 
-- [Materials](https://jakubnowosad.com/ogh2026/docs/validation.html)
 
-<!-- ### Daniel Loos: "Data Cubes in Julia"
+### Daniel Loos: "Data Cubes in Julia"
 
-- [Materials]() -->
+- [Materials](https://github.com/danlooo/julia-data-cubes-ogh-summer-school-2026)
 
 <!-- ### Adam Stewart: "Introduction to TorchGeo: Deep learning with geospatial data" -->
 
