@@ -50,6 +50,8 @@
 
 ### Jakub Nowosad: "Where can your spatial model be trusted? Reliable validation of spatial machine learning"
 
+- [Materials](https://jakubnowosad.com/ogh2026/docs/validation.html)
+
 
 ### Daniel Loos: "Data Cubes in Julia"
 
